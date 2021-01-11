@@ -1,12 +1,15 @@
 Mini Basketball Arcade
 ===
-Team Members: 
+Team Members: [@chia56028](https://github.com/chia56028), [@ycleo](https://github.com/ycleo)
 
 ### Introduction
 We designed a tabletop version of the popular basketball arcade game.
 
-![](./img/01.jpg)
-![](./img/02.jpg)
+<p float="left">
+    <img src="./img/01.jpg" width="350">
+    <img src="./img/02.jpg" width="350">
+</p>
+<br>
 
 #### Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hC5emraPtsg/0.jpg)](https://www.youtube.com/watch?v=hC5emraPtsg)
